@@ -11,7 +11,7 @@ $(document).ready(()=>{
         { nm : "김현균" , user_nm : "Ksanbal" , url : "https://github.com/Ksanbal" },
         { nm : "박종완" , user_nm : "Parkjoungwan" , url : "https://github.com/Parkjoungwan" },
         { nm : "이승현" , user_nm : "Lee-Seeung-Hyun" , url : "https://github.com/Lee-Seeung-Hyun" },
-        { nm : "이정민" , user_nm : "BBongDDa" , url : "https://github.com/BBongDDa" },
+        { nm : "이정민 이라고 할 수 있겠네요" , user_nm : "BBongDDa" , url : "https://github.com/BBongDDa" },
         
     ];
     list.map((item , idx) =>{
