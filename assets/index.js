@@ -1,5 +1,6 @@
 $(document).ready(()=>{
     let list = [
+        { nm : "조병옥" , user_nm : "byeongok2" , url : "https://github.com/Byeongok2" },
         { nm : "유경수" , user_nm : "yoogomja" , url : "https://github.com/yoogomja" },
         { nm : "배성현" , user_nm : "baeseongh" , url : "https://github.com/baeseongh" },
         { nm : "신세경" , user_nm : "신세경" , url : "https://github.com/baeseongh" },
