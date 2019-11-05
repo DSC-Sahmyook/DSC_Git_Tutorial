@@ -2,6 +2,7 @@ $(document).ready(()=>{
     let list = [
         { name : "유경수" , account : "yoogomja" , url : "https://github.com/yoogomja" },
         { name : "배성현" , account : "baeseongh" , url : "https://github.com/baeseongh" },
+        { name : "김홍욱" , account : "ghddnr13" , url : "https://github.com/ghddnr13" },
     ];
     list.map((item , idx) =>{
         let copied = $('.mockup').clone().removeClass('mockup');
