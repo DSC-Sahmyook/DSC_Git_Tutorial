@@ -1,10 +1,7 @@
 $(document).ready(()=>{
     let list = [
-<<<<<<< HEAD
         { nm : "김홍욱" , user_nm : "ghddnr13" , url : "https://github.com/ghddnr13" },
-=======
         { nm : "조병옥" , user_nm : "byeongok2" , url : "https://github.com/Byeongok2" },
->>>>>>> 402f4c7f4772e7cbc78abdd1e9b94b1afd88e9cc
         { nm : "유경수" , user_nm : "yoogomja" , url : "https://github.com/yoogomja" },
         { nm : "배성현" , user_nm : "baeseongh" , url : "https://github.com/baeseongh" },
         { nm : "신세경" , user_nm : "신세경" , url : "https://github.com/baeseongh" },
