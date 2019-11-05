@@ -1,0 +1,12 @@
+html,body{
+    background-color:#eee;
+}
+
+.item-name{
+    font-size : 1.7em;
+    color : #3b3b3b;
+}
+
+.mockup{
+    display:none;
+}
