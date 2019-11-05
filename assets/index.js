@@ -1,6 +1,6 @@
 $(document).ready(()=>{
     let list = [
-        { nm : "양세빈" , user_nm : "sbsbbb" , url : "https://github.com/sbsbbb" },
+        { nm : "양세빈" , user_nm : "sbsbbb" , url : "https://github.com/sbsbbb" }, // ',' 지운거 사실 저에요..
         { nm : "이 봄" ,  user_nm: "leebom0214" , url : "https://github.com/leebom0214" },
         { nm : "김홍욱" , user_nm : "ghddnr13" , url : "https://github.com/ghddnr13" },
         { nm : "조병옥한번더 수정해보자" , user_nm : "byeongok2" , url : "https://github.com/Byeongok2" },
@@ -13,7 +13,7 @@ $(document).ready(()=>{
         { nm : "이승현" , user_nm : "Lee-Seeung-Hyun" , url : "https://github.com/Lee-Seeung-Hyun" },
         { nm : "정혜쑤" , user_nm : "JeongHyeSoo" , url : "https://github.com/JeongHyeSoo" },
         { nm : "권택준" , user_nm : "GwonTaekJoon" , url : "https://github.com/GwonTaekJoon" },
-        { nm : "이정민" , user_nm : "Jeongmin Lee" , url : "https://github.com/BBongDDa" },
+        { nm : "이정민" , user_nm : "BBongDDa" , url : "https://github.com/BBongDDa" },
     ];
     list.map((item , idx) =>{
         let copied = $('.mockup').clone().removeClass('mockup');
