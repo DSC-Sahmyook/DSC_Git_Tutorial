@@ -1,6 +1,6 @@
 $(document).ready(()=>{
     let list = [
-        { nm : "양세빈" , user_nm : "sbsbbb" , url : "https://github.com/sbsbbb" }
+        { nm : "양세빈" , user_nm : "sbsbbb" , url : "https://github.com/sbsbbb" },
         { nm : "이 봄" ,  user_nm: "leebom0214" , url : "https://github.com/leebom0214" },
         { nm : "김홍욱 깃 허브 쉽지 않네" , user_nm : "ghddnr13" , url : "https://github.com/ghddnr13" },
         { nm : "조병옥한번더 수정해보자" , user_nm : "byeongok2" , url : "https://github.com/Byeongok2" },
