@@ -5,6 +5,7 @@ $(document).ready(()=>{
         { nm : "신세경" , user_nm : "신세경" , url : "https://github.com/baeseongh" },
         { nm : "송다운" , user_nm : "haryoung" , url : "https://github.com/HaRyoung" },
         { nm : "김현균" , user_nm : "Ksanbal" , url : "https://github.com/Ksanbal" },
+        { nm : "박종완" , user_nm : "Parkjoungwan" , url : "https://github.com/Parkjoungwan" },
     ];
     list.map((item , idx) =>{
         let copied = $('.mockup').clone().removeClass('mockup');
